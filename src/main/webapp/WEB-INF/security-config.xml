@@ -20,7 +20,8 @@
 	  <password-encoder hash="sha"/>
 	  <user-service>
 	    <user name="concretepage" password="0733824cc1549ce36139e8c790a9344d1e385cd2" authorities="ROLE_USER" />
-	    <user name="bambam" password="bambam" authorities="ROLE_USER" />
+	    <user name="bambam" password="6f3733e7b5f9b770dada77d3f8f59228e72acf75" authorities="ROLE_USER" />
+	    <user name="Tejas" password="eab3dabcb63111fa192b0e9ab8ee4fbebbdea3d2" authorities="ROLE_USER" />
 	  </user-service>
       </authentication-provider>
    </authentication-manager>
