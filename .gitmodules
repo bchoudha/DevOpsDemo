@@ -1,0 +1,3 @@
+[submodule "src/springCommon"]
+	path = src/springCommon
+	url = https://github.com/bchoudha/SpringSecurity.git
